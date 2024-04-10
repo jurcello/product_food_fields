@@ -14,6 +14,6 @@
     # any module necessary for this one to work correctly
     "depends": ["base", "product"],
     # always loaded
-    "data": ["views/food_product_views.xml"],
+    "data": ["views/product_template_views.xml"],
     # only loaded in demonstration mode
 }

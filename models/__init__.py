@@ -1,1 +1,1 @@
-from . import food_product
+from . import product_template
